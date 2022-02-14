@@ -4,4 +4,5 @@ Recriando a interface do principal site de streaming mundial utilizando tecnolog
 Nesse projeto também tivemos a oportunidade de aprender: como estruturar um layout, técninas de CSS3 com containers e variáveis, como posicionar os elementos com FlexBox e como utilizar JQuery a favor do projeto.
 
 Bootcamp Talke Blip Web Developer.
+
 Prof. Felipe Aguiar - DIO.
