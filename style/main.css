@@ -43,16 +43,11 @@ header nav a:hover{
 /*ANIME PRINCIPAL*/
 .anime-principal{
 
-	font-size:16px;
-	background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/capa.jpg');
 	
-	height: 450px;
-	background-size: cover;
-	
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: flex-start;
+		font-size: 16px;
+		background: linear-gradient(rgba(0,0,0, .5), rgba(0,0,0, .5)100%), url('../img/capa.jpg');;
+		height: 400px;
+		background-size: cover;
 }
 
 .anime-principal .descricao{
